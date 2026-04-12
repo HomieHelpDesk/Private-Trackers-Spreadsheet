@@ -286,11 +286,6 @@
       "type": "Movies, TV, Audio, General"
     },
     {
-      "name": "CD File",
-      "description": "CD File is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, Audio, TV, General"
-    },
-    {
       "name": "CeskeForum",
       "description": "CeskeForum is a CZECH Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Books, Audio, PC, General"
@@ -1261,6 +1256,11 @@
       "type": "Console, PC, Movies, Audio, TV, XXX, Books, General"
     },
     {
+      "name": "SceneTime (API)",
+      "description": "SceneTime is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Console, Movies, Audio, PC, TV, XXX, Books, General"
+    },
+    {
       "name": "SeedFile",
       "description": "SeedFile (SF) is a ROMANIAN Private Torrent Tracker for 0DAY / GENERAL",
       "type": "Books, General, Movies, Console, PC, Audio, TV, XXX"
@@ -1393,7 +1393,7 @@
     {
       "name": "The Old School (API)",
       "description": "The Old School (TOS) is a FRENCH Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, Books, Console, PC"
+      "type": "Movies, TV, Console, Books, PC"
     },
     {
       "name": "The Show",
