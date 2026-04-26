@@ -498,7 +498,7 @@
     {
       "name": "funZone (API)",
       "description": "funZone is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, PC, Audio, Console, General"
+      "type": "Movies, TV, PC, Audio, Console, XXX"
     },
     {
       "name": "FutureTorrent",
@@ -933,7 +933,7 @@
     {
       "name": "Nexum (API)",
       "description": "Nexum is a FRENCH Private Torrent Tracker for MOVIES / TV",
-      "type": "Movies, TV, Books, Audio"
+      "type": "Books, Movies, TV, Audio"
     },
     {
       "name": "NicePT",
@@ -1097,7 +1097,7 @@
     },
     {
       "name": "PTerClub (PT之友俱乐部)",
-      "description": "PTerClub (PT之友俱乐部) is a CHINESE Private Torrent Tracker for HD MUSIC VIDEOS / MOVIES / TV  / ANIME",
+      "description": "PTerClub (PT之友俱乐部) is a CHINESE Private Torrent Tracker for HD MUSIC VIDEOS / MOVIES / TV / ANIME",
       "type": "Movies, TV, Audio, Books, Console, PC, General"
     },
     {
@@ -1373,7 +1373,7 @@
     {
       "name": "The Brothers",
       "description": "The Brothers is a Private GERMAN tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, PC, Console, Audio, Books, General, XXX"
+      "type": "TV, Movies, PC, Console, Audio, Books, General, XXX"
     },
     {
       "name": "The Crazy Ones",
