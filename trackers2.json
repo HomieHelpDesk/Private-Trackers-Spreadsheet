@@ -51,11 +51,6 @@
       "type": "Movies, Books, Audio, XXX, PC, Console, General, TV"
     },
     {
-      "name": "AFUN",
-      "description": "AFUN is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "TV, Audio, General, Movies"
-    },
-    {
       "name": "AGSVPT",
       "description": "AGSVPT (Arctic Global Seed Vault) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, PC, Books, General"
@@ -308,7 +303,7 @@
     {
       "name": "Cinematik (API)",
       "description": "Cinematik is a Private tracker for full BD and DVD discs of non-mainstream movies, niche cinema and arthouse.",
-      "type": "Movies, TV"
+      "type": "Movies, TV, PC"
     },
     {
       "name": "ClearJAV (API)",
@@ -498,7 +493,7 @@
     {
       "name": "funZone (API)",
       "description": "funZone is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, PC, Audio, Console, XXX"
+      "type": "Movies, TV, PC, Audio, Console, XXX, Books"
     },
     {
       "name": "FutureTorrent",
@@ -1158,7 +1153,7 @@
     {
       "name": "Punk's Horror Tracker",
       "description": "Punk's Horror Tracker is a HUNGARIAN Private Tracker for Horror MOVIES / TV",
-      "type": "Movies, TV, Books, PC, XXX"
+      "type": "Movies, TV, Books, XXX"
     },
     {
       "name": "PuntoTorrent",
@@ -1331,11 +1326,6 @@
       "type": "Movies, TV, General, Audio, PC, Books"
     },
     {
-      "name": "Tangmen (唐门)",
-      "description": "Tangmen (唐门) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "TV, Audio, Movies"
-    },
-    {
       "name": "TangPT (躺平)",
       "description": "TangPT (躺平) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General"
@@ -1429,11 +1419,6 @@
       "name": "Toca Share (API)",
       "description": "Toca Share is a PORTUGUESE Private Torrent Tracker for EBOOKS / AUDIOBOOKS / COURSES",
       "type": "Books, TV, Audio, Console, PC, General, XXX"
-    },
-    {
-      "name": "TokyoPT",
-      "description": "TokyoPT is a CHINESE Private Torrent Tracker for MOVIES / TV",
-      "type": "General, TV, Movies"
     },
     {
       "name": "Tormac",
@@ -1539,6 +1524,11 @@
       "name": "UBits",
       "description": "UBits is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General"
+    },
+    {
+      "name": "Ultrabits (API)",
+      "description": "Ultrabits is a NORDIC Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Console, Movies, Audio, PC, TV, Books"
     },
     {
       "name": "UltraHD",
