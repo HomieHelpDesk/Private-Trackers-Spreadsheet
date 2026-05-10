@@ -1316,6 +1316,11 @@
       "type": "Movies, TV, XXX, Audio, General, Books"
     },
     {
+      "name": "SportsCora (API)",
+      "description": "SportsCora is a Private Torrent Tracker for SPORTS",
+      "type": "Movies, TV, Audio, Console, PC"
+    },
+    {
       "name": "SunnyPT",
       "description": "SunnyPT is a CHINESE Private Torrent Tracker for MOVIES / TV",
       "type": "Movies, TV, Audio, General"
