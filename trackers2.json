@@ -356,6 +356,16 @@
       "type": "General, Audio, TV, Movies"
     },
     {
+      "name": "CyclingArchiveClub",
+      "description": "CyclingArchiveClub is a Private tracker for Professional road and Cyclocross racing VIDEOS",
+      "type": "TV"
+    },
+    {
+      "name": "CZTeam (API)",
+      "description": "CZTeam (CZT) is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "XXX, PC, TV, Audio, Console, Movies, General, Books"
+    },
+    {
       "name": "Darkpeers (API)",
       "description": "Darkpeers is a Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Console, Audio, PC, XXX, General, Books"
@@ -579,11 +589,6 @@
       "name": "HD-UNiT3D (API)",
       "description": "HD-UNiT3D is a Private Torrent Tracker for HD MOVIES / TV",
       "type": "Movies, TV, Audio"
-    },
-    {
-      "name": "HDBao",
-      "description": "HDBao is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "TV, Movies, Audio, Books, General"
     },
     {
       "name": "HDCiTY",
@@ -881,6 +886,11 @@
       "type": "Movies, TV, Audio, Console"
     },
     {
+      "name": "Milnueve (API)",
+      "description": "Milnueve is a SPANISH Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, Books"
+    },
+    {
       "name": "MMA-torrents",
       "description": "MMA-Torrents is a Private Torrent Tracker for MMA (Mixed Martial Arts)",
       "type": "Audio, TV, Movies, Books, General"
@@ -928,7 +938,7 @@
     {
       "name": "Nexum (API)",
       "description": "Nexum is a FRENCH Private Torrent Tracker for MOVIES / TV",
-      "type": "Books, Movies, TV, Audio"
+      "type": "Books, Movies, Audio, TV"
     },
     {
       "name": "NicePT",
@@ -1016,11 +1026,6 @@
       "type": "Movies, TV, PC, Console, Audio, General, Books"
     },
     {
-      "name": "ParabellumHD (API)",
-      "description": "ParabellumHD is a SPANISH Private Torrent Tracker for HEVC & AV1-encoded MOVIES / TV",
-      "type": "Movies, TV, General, Console"
-    },
-    {
       "name": "Party-Tracker",
       "description": "Party-Tracker is a HUNGARIAN private tracker for MOVIES / TV / GENERAL",
       "type": "Console, PC, Movies, Books, TV, XXX, General, Audio"
@@ -1064,6 +1069,11 @@
       "name": "PolishTracker (API)",
       "description": "PolishTracker is a POLISH Private Torrent Tracker for 0DAY / MOVIES / GENERAL",
       "type": "PC, Audio, Console, Books, Movies, TV, XXX"
+    },
+    {
+      "name": "PornBytes (API)",
+      "description": "PornBytes is a Private Torrent Tracker for 3X",
+      "type": "XXX"
     },
     {
       "name": "Portugas (API)",
@@ -1216,6 +1226,11 @@
       "type": "Movies"
     },
     {
+      "name": "RetroToon",
+      "description": "RetroToon is a Private Torrent Tracker for ANIMATED MOVIES / TV",
+      "type": "TV, XXX, General, Books, Movies, Audio"
+    },
+    {
       "name": "RocketHD (API)",
       "description": "RocketHD is a GERMAN Private Torrent Tracker for MOVIES / TV",
       "type": "Movies, TV"
@@ -1299,11 +1314,6 @@
       "name": "SkipTheCommercials (API)",
       "description": "SkipTheCommercials (STC) is a Private Torrent Tracker for TV",
       "type": "Movies, TV"
-    },
-    {
-      "name": "Slobit Media (API)",
-      "description": "Slobit Media is a SLOVENIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, Console, Audio, General, PC"
     },
     {
       "name": "SoulVoice (聆音Club)",
@@ -1533,7 +1543,7 @@
     {
       "name": "Ultrabits (API)",
       "description": "Ultrabits is a NORDIC Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Console, Movies, Audio, PC, TV, Books"
+      "type": "Movies, TV, Audio, PC, Console, Books"
     },
     {
       "name": "UltraHD",
@@ -1584,6 +1594,11 @@
       "name": "World-In-HD",
       "description": "World-In-HD is a Private Torrent Tracker. Your world in HD",
       "type": "Movies, TV, PC, Audio"
+    },
+    {
+      "name": "Xingtan (杏坛)",
+      "description": "Xingtan (杏坛) is a CHINESE Torrent Tracker focusing on Medical Resources EBOOKS",
+      "type": "Books"
     },
     {
       "name": "Xingwan (星湾)",
