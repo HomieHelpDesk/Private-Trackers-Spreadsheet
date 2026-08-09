@@ -253,7 +253,7 @@
     {
       "name": "Caishen (财神)",
       "description": "Caishen (财神) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Audio, General, TV, Movies"
+      "type": "TV, Audio, General, Movies"
     },
     {
       "name": "cangbaoge (CBG)",
@@ -284,11 +284,6 @@
       "name": "CHDBits",
       "description": "CHDBits is a CHINESE Private Torrent Tracker for HD MOVIES / TV",
       "type": "Movies, TV, Audio, General"
-    },
-    {
-      "name": "ChileBT (API)",
-      "description": "ChileBT is a CHILEAN Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, Audio, General, PC, Books, XXX"
     },
     {
       "name": "Cinemageddon",
@@ -1481,11 +1476,6 @@
       "type": "Movies, TV, PC, Console, Audio, Books, General, XXX"
     },
     {
-      "name": "TorrentAvenue (API)",
-      "description": "TorrentAvenue is a Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, General, Audio, PC, Console"
-    },
-    {
       "name": "TorrentCCF",
       "description": "TorrentCCF (TCCF) is a CHINESE Private Torrent Tracker for HD MOVIES / TV",
       "type": "Movies, TV, PC, Audio, General, Books"
@@ -1504,6 +1494,11 @@
       "name": "Torrenteros (API)",
       "description": "Torrenteros (TTR) is a SPANISH Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV"
+    },
+    {
+      "name": "TorrentHaven (API)",
+      "description": "TorrentHaven is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, General, Audio, PC, Console"
     },
     {
       "name": "TorrentHR (API)",
