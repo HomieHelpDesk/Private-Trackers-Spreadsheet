@@ -31,11 +31,6 @@
       "type": "Movies, TV, Audio, General, XXX"
     },
     {
-      "name": "720pier",
-      "description": "720pier is a RUSSIAN Private Torrent Tracker for HD SPORTS",
-      "type": "TV"
-    },
-    {
       "name": "Abnormal (API)",
       "description": "ABNormal (ABN) is a FRENCH Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "TV, Movies, PC, Books"
@@ -749,11 +744,6 @@
       "name": "Kufirc2FA",
       "description": "Kufirc is a HUNGARIAN Private tracker for 3X. This indexer uses cookie login for 2FA.",
       "type": "XXX, Books, PC"
-    },
-    {
-      "name": "Kunlun (昆仑)",
-      "description": "Kunlun (昆仑) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, Audio, General"
     },
     {
       "name": "lajidui",
