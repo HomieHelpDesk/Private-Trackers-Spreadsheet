@@ -31,6 +31,11 @@
       "type": "Movies, TV, Audio, General, XXX"
     },
     {
+      "name": "720pier",
+      "description": "720pier is a RUSSIAN Private Torrent Tracker for HD SPORTS",
+      "type": "TV"
+    },
+    {
       "name": "Abnormal (API)",
       "description": "ABNormal (ABN) is a FRENCH Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "TV, Movies, PC, Books"
@@ -114,11 +119,6 @@
       "name": "Audiences",
       "description": "Audiences is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, Books, PC, General"
-    },
-    {
-      "name": "AURA4K (API)",
-      "description": "AURA4K is a Private Torrent Tracker for MOVIES / TV",
-      "type": "Movies, TV"
     },
     {
       "name": "Aussierul.es",
@@ -496,6 +496,11 @@
       "type": "Movies, TV, Audio, General, Books, PC"
     },
     {
+      "name": "FunFile",
+      "description": "FunFile is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "General, TV, PC, Audio, Books, Movies, XXX"
+    },
+    {
       "name": "funZone (API)",
       "description": "funZone is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, PC, Audio, Console, XXX, General, Books"
@@ -574,6 +579,11 @@
       "name": "HD-Only (API)",
       "description": "HD-Only (HD-O) is a FRENCH Private Torrent Tracker for HD MOVIES / TV",
       "type": "Movies, TV, Audio, General"
+    },
+    {
+      "name": "HD-SpaceCookie",
+      "description": "HD-Space (HDS) is a Private Torrent Tracker for HD MOVIES / TV. This uses the cookie method for access",
+      "type": "Movies, TV, Audio, XXX, PC, General"
     },
     {
       "name": "HD-UNiT3D (API)",
@@ -993,7 +1003,7 @@
     {
       "name": "Order66",
       "description": "Order66 is a Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "PC, Movies, Audio, TV"
+      "type": "PC, Console, Movies, Audio, TV, Books"
     },
     {
       "name": "OshenPT",
@@ -1376,11 +1386,6 @@
       "type": "PC, Books, General"
     },
     {
-      "name": "TEKNO3D",
-      "description": "TEKNO3D is a Private Torrent Tracker for UHD MOVIES / TV",
-      "type": "Audio, Movies, TV, General"
-    },
-    {
       "name": "The Brothers",
       "description": "The Brothers is a Private GERMAN tracker for MOVIES / TV / GENERAL",
       "type": "TV, Movies, PC, Console, Audio, Books, General, XXX"
@@ -1579,6 +1584,11 @@
       "name": "UTOPIA (API)",
       "description": "UTOPIA is a UKRAINIAN Private Tracker for HD MOVIES and TV",
       "type": "Movies, TV"
+    },
+    {
+      "name": "V3X",
+      "description": "V3X is a FRENCH Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, Books, PC, Console, General"
     },
     {
       "name": "Vault network",
