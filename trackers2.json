@@ -21,6 +21,11 @@
       "type": "Movies, PC, XXX, General, Audio"
     },
     {
+      "name": "3D Vault (API)",
+      "description": "3D Vault is a Private Torrent Tracker for 3D MOVIES",
+      "type": "Movies, TV"
+    },
+    {
       "name": "4thD",
       "description": "4th Dimension is a Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, PC, Audio, Books"
@@ -416,6 +421,11 @@
       "type": "PC, Books, Audio, TV, General"
     },
     {
+      "name": "DreadVault (API)",
+      "description": "DreadVault is a Private Torrent Tracker for HORROR MOVIES / TV",
+      "type": "Movies, TV"
+    },
+    {
       "name": "Drugari",
       "description": "Drugari is a CROATIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "TV, PC, Movies, Console, Books, Audio, General, XXX"
@@ -448,7 +458,7 @@
     {
       "name": "exitorrent.org",
       "description": "exitorrent.org is a POLISH Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "PC, Audio, Movies, Books, TV, General, XXX"
+      "type": "Movies, TV, Audio, Books, PC, General, XXX"
     },
     {
       "name": "Explosiv-World",
@@ -953,7 +963,7 @@
     {
       "name": "NOBS",
       "description": "NOBS (NUCLEAR ORDER BIT SYNDICATE) is a SPANISH Private Torrent Tracker for MOVIES / TV",
-      "type": "Movies, TV, Console"
+      "type": "Movies, TV, Console, Books, Audio"
     },
     {
       "name": "NordicBytes",
@@ -1099,11 +1109,6 @@
       "name": "PTCC (我的PT)",
       "description": "PTCC (我的PT) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio"
-    },
-    {
-      "name": "PTCDY (传道院)",
-      "description": "PTCDY (传道院) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, Audio, General"
     },
     {
       "name": "PTerClub (PT之友俱乐部)",
@@ -1344,11 +1349,6 @@
       "name": "SportsCora (API)",
       "description": "SportsCora is a Private Torrent Tracker for SPORTS",
       "type": "Movies, TV, Audio, Console, PC"
-    },
-    {
-      "name": "SunnyPT",
-      "description": "SunnyPT is a CHINESE Private Torrent Tracker for MOVIES / TV",
-      "type": "Movies, TV, Audio, General"
     },
     {
       "name": "Swarmazon (API)",
@@ -1619,6 +1619,11 @@
       "name": "World-In-HD",
       "description": "World-In-HD is a Private Torrent Tracker. Your world in HD",
       "type": "Movies, TV, PC, Audio"
+    },
+    {
+      "name": "XDY (修道院)",
+      "description": "XDY (修道院) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General, Console"
     },
     {
       "name": "Xingtan (杏坛)",
