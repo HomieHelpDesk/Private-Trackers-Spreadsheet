@@ -276,6 +276,11 @@
       "type": "Movies, TV, Audio, General, Console, PC"
     },
     {
+      "name": "BytePeer",
+      "description": "BytePeer is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, Audio, PC, TV, Books, General"
+    },
+    {
       "name": "C411",
       "description": "C411 (Community 411) is a FRENCH Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Console, Movies, Audio, PC, TV, XXX, Books, General"
@@ -377,6 +382,11 @@
     },
     {
       "name": "cyanbug (大青虫)",
+      "description": "cyanbug (大青虫) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "General, Audio, TV, Movies"
+    },
+    {
+      "name": "cyanbug (大青虫) (API)",
       "description": "cyanbug (大青虫) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "General, Audio, TV, Movies"
     },
@@ -781,11 +791,6 @@
       "type": "Movies, PC, TV, Audio, General, Books, Console"
     },
     {
-      "name": "HxPT (好学)",
-      "description": "HxPT (好学) is a CHINESE Private Torrent Tracker for E-LEARNING",
-      "type": "General"
-    },
-    {
       "name": "InfinityHD (API)",
       "description": "InfinityHD is a Private Torrent Tracker for MOVIES / TV / ANIME / MUSIC",
       "type": "Movies, TV, Audio"
@@ -1051,6 +1056,11 @@
       "type": "XXX"
     },
     {
+      "name": "NightBloom (API)",
+      "description": "NightBloom is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, Console, PC"
+    },
+    {
       "name": "Nirvana (API)",
       "description": "Nirvana is a Private RUSSIAN Tracker for MOVIES / TV",
       "type": "Movies, TV, General"
@@ -1063,7 +1073,7 @@
     {
       "name": "NOBS",
       "description": "NOBS (NUCLEAR ORDER BIT SYNDICATE) is a SPANISH Private Torrent Tracker for MOVIES / TV",
-      "type": "Movies, TV, Console, Books, Audio"
+      "type": "Movies, TV, Console, Books, Audio, PC"
     },
     {
       "name": "NordicBytes",
